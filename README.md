@@ -1,6 +1,6 @@
 # Projeto Restaurante - Sabor & Arte
 
-**Aluno:** [Seu Nome Aqui]  
+**Alunos:** [Leonardo B, Raissa L. e Fabiana] 
 **Ano:** 2026  
 **Tecnologias:** HTML5, CSS3, Bootstrap 5.3  
 
